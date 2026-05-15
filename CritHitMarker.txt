@@ -1,0 +1,8 @@
+## Title: Crit Hit Marker
+## Description: Displays X hit markers on critical strikes
+## Author: |cBF00FF@Y|c8F39F2ar|c6073E6bo|c30ACD9Ja|c01E5CDnks|r
+## Version: 1.0
+## APIVersion: 101049
+
+CritHitMarker.xml
+CritHitMarker.lua
