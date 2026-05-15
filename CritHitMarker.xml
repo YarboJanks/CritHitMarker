@@ -1,0 +1,8 @@
+<GuiXml>
+  <Controls>
+    <TopLevelControl name="CritHitMarkerContainer" hidden="false">
+      <Anchor point="TOPLEFT" relativeTo="GuiRoot" relativePoint="TOPLEFT" />
+      <Anchor point="BOTTOMRIGHT" relativeTo="GuiRoot" relativePoint="BOTTOMRIGHT" />
+    </TopLevelControl>
+  </Controls>
+</GuiXml>
