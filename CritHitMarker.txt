@@ -3,6 +3,8 @@
 ## Author: |cBF00FF@Y|c8F39F2ar|c6073E6bo|c30ACD9Ja|c01E5CDnks|r
 ## Version: 1.0
 ## APIVersion: 101049
+## SavedVariables: CritHitMarkerSV
+## DependsOn: LibAddonMenu-2.0
 
 CritHitMarker.xml
 CritHitMarker.lua
